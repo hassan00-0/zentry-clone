@@ -5,7 +5,7 @@ Built using **React**, **Tailwind CSS**, and **JavaScript** as a learning and po
 
 ## 🔗 Live Demo
 
-[https://zentry-clone.netlify.app](https://zentry-clone.netlify.app)
+[https://zentry-website-replica.netlify.app](https://zentry-clone.netlify.app)
 
 ## 📁 GitHub Repository
 
